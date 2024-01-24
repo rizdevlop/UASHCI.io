@@ -1,0 +1,187 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.item-6-Fde {
+  box-sizing: border-box;
+  padding-bottom: 5.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.item-6-Fde .auto-group-uo2l-nda {
+  box-sizing: border-box;
+  padding: 1.8rem 0rem 3.6rem 0.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.item-6-Fde .auto-group-uo2l-nda .auto-group-pqxg-uy6 {
+  margin: 0rem 4.338rem 3.9rem 5.3rem;
+  width: calc(100% - 9.6375rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item-6-Fde .auto-group-uo2l-nda .auto-group-pqxg-uy6 .ic-outline-menu-deC {
+  margin: 0.3rem 58.45rem 0rem 0rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-6-Fde .auto-group-uo2l-nda .auto-group-pqxg-uy6 .uss-feed-M4Q {
+  margin-right: 0.95rem;
+  max-width: 9.1rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.item-6-Fde .auto-group-uo2l-nda .auto-group-pqxg-uy6 .uss-feed-M4Q .uss-feed-M4Q-sub-0 {
+}
+.item-6-Fde .auto-group-uo2l-nda .auto-group-pqxg-uy6 .uss-feed-M4Q .uss-feed-M4Q-sub-1 {
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #fcb900;
+  font-family: Inter, 'Source Sans Pro';
+}
+.item-6-Fde .auto-group-uo2l-nda .auto-group-pqxg-uy6 .auto-group-jmbs-hGg {
+  margin: 0rem 58.392rem 4.5rem 0rem;
+  width: 1rem;
+  height: 1.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-6-Fde .auto-group-uo2l-nda .auto-group-pqxg-uy6 .akar-icons-search-c8k {
+  margin-top: 1.9541rem;
+  width: 2.7708rem;
+  height: 2.7708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-6-Fde .auto-group-uo2l-nda .auto-group-uvxs-8sn {
+  margin: 0rem 36.8rem 1.4rem 36.8rem;
+  width: calc(100% - 73.6rem);
+  display: flex;
+  column-gap: 4.7rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item-6-Fde .auto-group-uo2l-nda .auto-group-uvxs-8sn .editorial-MVe {
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-6-Fde .auto-group-uo2l-nda .auto-group-uvxs-8sn .pop-culture-gXv {
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-6-Fde .auto-group-uo2l-nda .auto-group-uvxs-8sn .fashion-pPE {
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-6-Fde .auto-group-uo2l-nda .auto-group-uvxs-8sn .music-jWC {
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-6-Fde .auto-group-uo2l-nda .auto-group-uvxs-8sn .magazines-gAY {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #fcb900;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-6-Fde .auto-group-uo2l-nda .line-1-1Ti {
+  width: 144rem;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.8000000119);
+  flex-shrink: 0;
+}
+.item-6-Fde .group-2-juW {
+  width: 150rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.item-6-Fde .group-2-juW .image-8-5iU {
+  margin-right: 3.9rem;
+  width: 134.6rem;
+  height: 65.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-6-Fde .group-2-juW .image-11-ouN {
+  margin-bottom: 0.5rem;
+  width: 150rem;
+  height: 92.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-6-Fde .group-2-juW .image-13-W36 {
+  width: 144rem;
+  height: 66.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
