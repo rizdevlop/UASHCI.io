@@ -1,0 +1,266 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.item-4-C76 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.item-4-C76 .auto-group-xyyl-jcp {
+  width: 100%;
+  height: 320rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.item-4-C76 .auto-group-xyyl-jcp .line-1-rBe {
+  width: 144rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 18.4rem;
+  background-color: rgba(0, 0, 0, 0.8000000119);
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-tag4-BDv {
+  width: 134.1625rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 1.8rem;
+  display: flex;
+  align-items: center;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-tag4-BDv .ic-outline-menu-JJY {
+  margin: 0.3rem 58.45rem 0rem 0rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-tag4-BDv .uss-feed-2EY {
+  margin-right: 0.95rem;
+  max-width: 9.1rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-tag4-BDv .uss-feed-2EY .uss-feed-2EY-sub-0 {
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-tag4-BDv .uss-feed-2EY .uss-feed-2EY-sub-1 {
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #fcb900;
+  font-family: Inter, 'Source Sans Pro';
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-tag4-BDv .auto-group-shqn-aQU {
+  margin: 0rem 58.392rem 4.5rem 0rem;
+  width: 1rem;
+  height: 1.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-tag4-BDv .akar-icons-search-tvx {
+  margin-top: 1.9541rem;
+  width: 2.7708rem;
+  height: 2.7708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-g1wu-DyE {
+  width: 70.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 37rem;
+  top: 14.5rem;
+  display: flex;
+  column-gap: 4.7rem;
+  align-items: center;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-g1wu-DyE .editorial-jgg {
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-g1wu-DyE .pop-culture-faL {
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-g1wu-DyE .fashion-8yi {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #fcb900;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-g1wu-DyE .music-U1z {
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-g1wu-DyE .magazines-Pek {
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-chu6-vPn {
+  width: 132.8rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 23.6rem;
+  border-top: solid 0.3rem #fcb900;
+  box-sizing: border-box;
+}
+.item-4-C76 .auto-group-xyyl-jcp .fashion-oyN {
+  width: 12.4rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 5.75rem;
+  top: 25.3rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-mpyi-uFi {
+  width: 134.1rem;
+  height: 284.9rem;
+  position: absolute;
+  left: 7.4rem;
+  top: 34.2rem;
+  display: flex;
+  align-items: flex-start;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-mpyi-uFi .auto-group-3kma-2LL {
+  margin-right: 3.7rem;
+  width: 87.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-mpyi-uFi .auto-group-3kma-2LL .rectangle-11-ASY {
+  width: 85rem;
+  height: 269.2rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 1.6rem;
+  background-color: #ffffff;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-mpyi-uFi .auto-group-3kma-2LL .image-6-u9E {
+  width: 84.6rem;
+  height: 9rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 275.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-mpyi-uFi .auto-group-3kma-2LL .image-10-ESQ {
+  width: 84.3rem;
+  height: 135.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-mpyi-uFi .auto-group-3kma-2LL .image-12-aFN {
+  width: 87.4rem;
+  height: 142.6rem;
+  position: absolute;
+  left: 0;
+  top: 135.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-mpyi-uFi .auto-group-86rs-6zQ {
+  margin-top: 0.4rem;
+  width: 43rem;
+  height: 116.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-mpyi-uFi .auto-group-86rs-6zQ .rectangle-10-1ba {
+  width: 39.8rem;
+  height: 116.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d9d9d9;
+}
+.item-4-C76 .auto-group-xyyl-jcp .auto-group-mpyi-uFi .auto-group-86rs-6zQ .image-7-9Bz {
+  width: 43rem;
+  height: 116.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item-4-C76 .auto-group-wp6y-gSp {
+  width: 144.9rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.item-4-C76 .auto-group-wp6y-gSp .screenshot-2023-12-13-102809-1-EDS {
+  width: 144.9rem;
+  height: 48.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}

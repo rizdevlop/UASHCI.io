@@ -1,0 +1,266 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.item-5-8Xe {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.item-5-8Xe .auto-group-brmn-Gtk {
+  width: 100%;
+  height: 320rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .line-1-Doz {
+  width: 144rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 18.4rem;
+  background-color: rgba(0, 0, 0, 0.8000000119);
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-lt8p-YbN {
+  width: 134.1625rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 1.8rem;
+  display: flex;
+  align-items: center;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-lt8p-YbN .ic-outline-menu-Fkg {
+  margin: 0.3rem 58.45rem 0rem 0rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-lt8p-YbN .uss-feed-BPS {
+  margin-right: 0.95rem;
+  max-width: 9.1rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-lt8p-YbN .uss-feed-BPS .uss-feed-BPS-sub-0 {
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-lt8p-YbN .uss-feed-BPS .uss-feed-BPS-sub-1 {
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #fcb900;
+  font-family: Inter, 'Source Sans Pro';
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-lt8p-YbN .auto-group-cmzt-kax {
+  margin: 0rem 58.392rem 4.5rem 0rem;
+  width: 1rem;
+  height: 1.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-lt8p-YbN .akar-icons-search-sQg {
+  margin-top: 1.9541rem;
+  width: 2.7708rem;
+  height: 2.7708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-ute8-apt {
+  width: 70.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 37rem;
+  top: 14.5rem;
+  display: flex;
+  column-gap: 4.7rem;
+  align-items: center;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-ute8-apt .editorial-JF6 {
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-ute8-apt .pop-culture-qF2 {
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-ute8-apt .fashion-Lha {
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-ute8-apt .music-5QG {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #fcb900;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-ute8-apt .magazines-QxL {
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-bpat-YHr {
+  width: 132.8rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 23.6rem;
+  border-top: solid 0.3rem #fcb900;
+  box-sizing: border-box;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .music-FTA {
+  width: 9.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 25.3rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-c7cg-Aa8 {
+  width: 130.5rem;
+  height: 276.9rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 33.2rem;
+  display: flex;
+  align-items: flex-start;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-c7cg-Aa8 .auto-group-mehj-6Tn {
+  margin-right: 3rem;
+  width: 87.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-c7cg-Aa8 .auto-group-mehj-6Tn .rectangle-11-SnY {
+  width: 85rem;
+  height: 269.2rem;
+  position: absolute;
+  left: 0;
+  top: 2.6rem;
+  background-color: #ffffff;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-c7cg-Aa8 .auto-group-mehj-6Tn .image-22-BVE {
+  width: 85.2rem;
+  height: 143.5rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-c7cg-Aa8 .auto-group-mehj-6Tn .screenshot-2023-12-13-142127-1-ggt {
+  width: 86.5rem;
+  height: 134.6rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 142.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-c7cg-Aa8 .auto-group-bzag-zSg {
+  margin-top: 1.4rem;
+  width: 39.9rem;
+  height: 101rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-c7cg-Aa8 .auto-group-bzag-zSg .rectangle-10-vLL {
+  width: 39.8rem;
+  height: 101rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d9d9d9;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .auto-group-c7cg-Aa8 .auto-group-bzag-zSg .image-21-rjn {
+  width: 39.8rem;
+  height: 101rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item-5-8Xe .auto-group-brmn-Gtk .image-6-ypQ {
+  width: 84.6rem;
+  height: 9rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 310.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item-5-8Xe .auto-group-sjha-6u2 {
+  width: 144.9rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.item-5-8Xe .auto-group-sjha-6u2 .screenshot-2023-12-13-102809-1-qLp {
+  width: 144.9rem;
+  height: 48.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
